@@ -1,0 +1,10 @@
+{
+    "properties": {
+        "startDate": { "type": "string", "format": "date-time", "formatMinimum": "2014-01-01T00:00:00Z", "formatMaximum": "2015-12-31T23:59:59Z"},
+        "endDate": { "type": "string", "format": "date-time", "formatMinimum": "2014-01-01T00:00:00Z", "formatMaximum": "2015-12-31T23:59:59Z"},
+        "algorithmName": {"type": "string"},
+        "resolution": {"type": "string"},
+        "keySelector": {"type": "array",  "items": [ {"type": "string"}]},
+        "sample": { "type": "number", "enum": [0.01, 0.1, 1]}
+    }
+}

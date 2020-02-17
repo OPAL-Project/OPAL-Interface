@@ -1,0 +1,6 @@
+{
+    "properties": {
+        "start_window": {"type":"string",  "format": "date-time", "formatMinimum": "2014-01-01T00:00:00Z", "formatMaximum": "2015-12-31T23:59:59Z"},
+        "end_window": {"type":"string",  "format": "date-time", "formatMinimum": "2014-01-01T00:00:00Z", "formatMaximum": "2015-12-31T23:59:59Z"}
+    }
+}
