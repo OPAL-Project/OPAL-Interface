@@ -43,7 +43,7 @@
     "eae-utils": "git+https://github.com/dsi-icl/eae-utils.git",
     "express": "^4.16.2",
     "fs-extra": "6.0.1",
-    "mongodb": "^2.2.35",
+    "mongodb": "^3.0.0",
     "opal-utils": "git+https://github.com/yvesalexandre/OPAL-Utils.git"
   }
 }
