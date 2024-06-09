@@ -33,7 +33,7 @@
     "eslint": "4.19.1",
     "jest": "23.1.0",
     "request": "2.87.0",
-    "uuid": "^3.2.1",
+    "uuid": "^10.0.0",
     "serve-static": "^1.13.2"
   },
   "dependencies": {
